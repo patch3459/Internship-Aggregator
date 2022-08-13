@@ -4,9 +4,14 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
     "create-react-app": "^5.0.1",
+    "indeed-scraper": "^3.1.4",
+    "node-fetch": "^3.2.10",
+    "node-html-parser": "^5.4.1",
     "nodemon": "^2.0.19"
   },
+  "type": "module",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
