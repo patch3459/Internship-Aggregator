@@ -2,7 +2,7 @@ import request from 'request';
 import * as cheerio from 'cheerio';
 
 /* 
-  This is a fixed and es6 version of an indeed scraper
+  This is an updated and es6 friendly version of an indeed scraper
 */
 
 export default function IndeedQuery(qo) {
